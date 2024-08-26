@@ -1,19 +1,19 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Ilustrator",
+    "imageSrc": "skills/ia.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/1.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/pr.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/ps.png"
   },
   {
     "title": "GraphQL",

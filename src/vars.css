@@ -1,12 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
 :root {
   /* Colours */
-  --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
+  --color1: #C27AAC;
+  --color2: #745A8E;
+  --color3: #947EB4;
+  --color4: #EFE8F7;
+  --color5: #E9E6E9;
+  --color6: #1E1E1c;
+
+  --color-text: #745A8E;
+  --color-primary: #C27AAC;
+  --color-secondary: #745A8E;
+  --color-dark: #E9E6E9;
+  --color-bg: #EFE8F7;
   --green-colors: #29A71A;
 
   /* Fonts */
   --font-roboto: "Roboto";
+  --PlaywriteCU :"Playwrite CU", cursive;
+  --Poppins :"Poppins", sans-serif;
 }

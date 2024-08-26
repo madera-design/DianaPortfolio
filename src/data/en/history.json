@@ -1,35 +1,38 @@
 [
   {
-    "role": "Sr. Desarrollador fronted",
-    "organisation": "Mobiik",
-    "startDate": "Septiembre, 2023",
-    "endDate": "junio, 2024",
+    "role": "Diseño Gráfico",
+    "organisation": "Agencia de Comunicación Gráfica",
+    "startDate": "2023",
+    "endDate": "actual",
     "experiences": [
-      "Gestión de la arquitectura y recursos frontend.", 
-      "Coordinación del equipo para implementar y corregir bugs en la UI.", 
-      "Coordinación con diseño para analizar vistas."
+      "Diseño de materiales impresos",
+      "Diseño digital y web",
+      "Gestión de proyectos",
+      "Generar planes de contenido",
+      "Conceptualización de elementos visuales"
     ]
   },
   {
-    "role": "Desarrollador fronted",
-    "organisation": "TAAG Genetics",
-    "startDate": "Junio, 2021",
-    "endDate": "Abril, 2023",
+    "role": "Content Manager",
+    "organisation": "Century 21 Nussca Desarrolladora",
+    "startDate": "2021",
+    "endDate": "2023",
     "experiences": [
-      "Desarrollo de componentes reutilizables.", 
-      "Integración de librerías externas para mejorar la usabilidad.",
-      "Gestión del estado global con Redux."
+      "Creación de identidad visual",
+      "Diseño digital e impreso",
+      "Mantenimiento de Consistencia Visual",
+      "Gestión de Proyectos"
     ]
   },
   {
-    "role": "Desarrollador frontend Jr.",
-    "organisation": "Elipse web",
-    "startDate": "Enero, 2020",
-    "endDate": "Diciembre, 2021",
+    "role": "Diseño Gráfico",
+    "organisation": "Impresos y Gráficos",
+    "startDate": "2020",
+    "endDate": "2021",
     "experiences": [
-      "Diseñar y prototipar sitio web",
-      "Maquetación de sitio web",
-      "Levantamiento de requerimientos para el sitio web"
+      "Adaptación de diseños",
+      "Diseño digital e impreso",
+      "Atención al cliente"
     ],
     "imageSrc": "history/netflix.png"
   }

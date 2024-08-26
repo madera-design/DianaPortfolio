@@ -18,6 +18,7 @@
   align-items: flex-start;
   color: var(--color-text);
   z-index: 1;
+  width: 90%;
 }
 
 .title {
@@ -25,13 +26,7 @@
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 70%,
-    rgba(255, 255, 255, 0) 120%
-  );
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  color: var(--color6);
 }
 
 .description {
@@ -45,24 +40,26 @@
   display: flex;
   width: 70%;
 }
-
+.typed{
+  font-family: var(--PlaywriteCU);
+}
 .contactBtn {
   text-decoration: none;
   background-color: var(--color-primary);
-  color: var(--color-text);
+  color: var(--color6);
   border-radius: 100px;
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
-  margin-left: 2%;
+  /* margin-left: 2%; */
   text-align: center;
 }
 
 .contactBtnWapp{
   text-decoration: none;
   background-color: var(--green-colors);
-  color: var(--color-text);
+  color: var(--color6);
   border-radius: 100px;
   font-size: 30px;
   font-weight: 600;
@@ -74,7 +71,8 @@
 .heroImg {
   width: 30%;
   z-index: 1;
-
+  background-color: orange;
+  border-radius: 50%;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -93,33 +91,7 @@
   }
 }
 
-.topBlur {
-  position: absolute;
-  width: 50vw;
-  height: 50vw;
-  min-width: 350px;
-  min-width: 350px;
-  top: -128px;
-  left: -10vw;
-  border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
-  filter: blur(100px);
-  z-index: 0;
-}
 
-.bottomBlur {
-  position: absolute;
-  width: 70vw;
-  height: 50vw;
-  min-width: 350px;
-  min-width: 250px;
-  top: 246px;
-  right: -25vw;
-  border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
-  filter: blur(100px);
-  z-index: 0;
-}
 
 @media screen and (max-width: 830px) {
   .container {

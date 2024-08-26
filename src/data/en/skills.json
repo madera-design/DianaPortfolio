@@ -1,27 +1,19 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Ilustrator",
+    "imageSrc": "skills/ai.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Premiere Pro",
+    "imageSrc": "skills/pr.png"
   },
   {
-    "title": "Javascript",
-    "imageSrc": "skills/js.png"
+    "title": "Photoshop",
+    "imageSrc": "skills/ps.png"
   },
   {
-    "title": "Typescript",
-    "imageSrc": "skills/typescript.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Vue",
-    "imageSrc": "skills/vue.png"
+    "title": "InDesign",
+    "imageSrc": "skills/id.png"
   },
   {
     "title": "Adobe XD",
