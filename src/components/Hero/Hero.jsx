@@ -7,7 +7,7 @@ export const Hero = () => {
   const el = useRef(null);
   useEffect(() => {
     const options = {
-      strings: ["Diseñado grafico","Diseñado UX/UI", "Diseñado digital"],
+      strings: ["Diseño gráfico","Diseño UX/UI", "Diseño digital"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,

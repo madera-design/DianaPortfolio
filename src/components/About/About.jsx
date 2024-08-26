@@ -22,7 +22,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-              Soy diseñadora gráfica y de UX/UI con 4 años de experiencia en el ámbito digital e impreso. He participado en una amplia variedad de proyectos, incluyendo el diseño de identidades visuales, la creación de interfaces de usuario para aplicaciones web y móviles, y el desarrollo de campañas publicitarias.
+              Soy Lic. en Comunicación con + 4 años de experiencia en el ámbito digital e impreso. He participado en una amplia variedad de proyectos, incluyendo el diseño de identidades visuales, la creación de interfaces de usuario para aplicaciones web y móviles, y el desarrollo de campañas publicitarias.
               </p>
             </div>
           </li>
