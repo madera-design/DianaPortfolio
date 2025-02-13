@@ -32,6 +32,12 @@ export const Hero = () => {
           <a download="" href="src/documents/DianaEnriquezCV.pdf" className={styles.contactBtn}>
             Descargar CV
           </a>
+          <a href="https://wa.me/5213121023117" className={styles.contactBtnWapp}>
+            WhatsApp
+          </a>
+          <a target="_blank" href="https://www.behance.net/daeinez" className={styles.contactBtn_text}>
+            Behance
+          </a>
         </div>
       </div>
       <img

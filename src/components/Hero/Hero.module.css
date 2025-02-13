@@ -43,6 +43,7 @@
 .typed{
   font-family: var(--PlaywriteCU);
 }
+
 .contactBtn {
   text-decoration: none;
   background-color: var(--color-primary);
@@ -52,19 +53,25 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  margin-left: 2%;
+  text-align: center;
+}
+.contactBtn_text {
+  text-decoration: none;
+  color: var(--color-primary);
+  font-size: 30px;
+  font-weight: 600;
+  padding: 17px 26px;
   /* margin-left: 2%; */
   text-align: center;
 }
 
 .contactBtnWapp{
   text-decoration: none;
-  background-color: var(--green-colors);
-  color: var(--color6);
-  border-radius: 100px;
+  color: var(--green-colors);
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
-  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   text-align: center;
 }
 

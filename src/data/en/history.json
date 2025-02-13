@@ -2,15 +2,14 @@
   {
     "role": "Diseño Gráfico",
     "organisation": "Agencia de Comunicación Gráfica",
-    "startDate": "2023",
+    "startDate": "2022",
     "endDate": "actual",
     "experiences": [
-      "Investigación de usuarios y creación de user personas.",
-      "Definición de arquitectura de información y flujos de usuario.",
-      "Diseño de wireframes y prototipos interactivos.",
-      "Pruebas de usabilidad y optimización de la experiencia.",
-      "Aplicación de design systems y diseño responsivo.",
-      "Colaboración con desarrolladores y mejoras constantes."
+      "Diseño de materiales impresos",
+      "Diseño digital y web",
+      "Gestión de proyectos",
+      "Generar planes de contenido",
+      "Conceptualización de elementos visuales"
     ]
   },
   {
@@ -19,12 +18,14 @@
     "startDate": "2021",
     "endDate": "2024",
     "experiences": [
-      "Diseño de materiales impresos",
-      "Diseño digital y web",
-      "Gestión de proyectos",
-      "Generar planes de contenido",
-      "Conceptualización de elementos visuales"
+      "Investigación de usuarios y creación de user personas.",
+      "Definición de arquitectura de información y flujos de usuario.",
+      "Diseño de wireframes y prototipos interactivos.",
+      "Pruebas de usabilidad y optimización de la experiencia.",
+      "Aplicación de design systems y diseño responsivo.",
+      "Colaboración con desarrolladores y mejoras constantes."
     ]
+    
   },
   {
     "role": "Content Manager",

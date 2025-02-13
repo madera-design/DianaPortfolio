@@ -86,6 +86,23 @@
   animation-timing-function: ease-in-out;
   width: 130%;
 }
+.contactBtnWapp{
+  text-decoration: none;
+  color: var(--green-colors);
+  font-size: 30px;
+  font-weight: 600;
+  padding: 17px 26px;
+  text-align: center;
+}
+.contactBtn_text {
+  text-decoration: none;
+  color: var(--color-primary);
+  font-size: 30px;
+  font-weight: 600;
+  padding: 17px 26px;
+  /* margin-left: 2%; */
+  text-align: center;
+}
 @keyframes floating {
   0% {
     transform: translate(0, 0px);
