@@ -20,9 +20,9 @@ export const About = () => {
          <a href="https://wa.me/5213121023117" className={styles.contactBtnWapp}>
             WhatsApp
           </a>
-          <a target="_blank" href="https://www.behance.net/daeinez" className={styles.contactBtn_text}>
+          {/* <a target="_blank" href="https://www.behance.net/daeinez" className={styles.contactBtn_text}>
             Behance
-          </a>
+          </a> */}
         </div>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
